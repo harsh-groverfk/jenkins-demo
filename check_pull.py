@@ -1,1 +1,1 @@
-print "Chell auto build for pull request."
+psjdakdrint "Chell auto build for pull request."
