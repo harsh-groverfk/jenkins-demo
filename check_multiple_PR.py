@@ -1,0 +1,1 @@
+print "Checks multiple PRs!"
