@@ -1,0 +1,1 @@
+print "Checks commit status."
