@@ -1,1 +1,0 @@
-print "Checks commit status."

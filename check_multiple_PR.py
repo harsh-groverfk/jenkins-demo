@@ -1,1 +1,0 @@
-print "Checks multiple PRs!"
