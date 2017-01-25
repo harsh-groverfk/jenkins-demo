@@ -1,3 +1,2 @@
-print "1.0035";
-
-
+print "1.0095";
+assert(True);
