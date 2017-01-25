@@ -1,5 +1,5 @@
 import requests
-r = requests.post("http://appsec-intern.nm.flipkart.com:8000/reports/sign_now/", files={'report' : open('test.txt', "r")})
+r = requests.post("http://127.0.0.1:8000/reports/sign_now/", files={'report' : open('test.txt', "r")})
 status_code =  r.status_code
 if(status_code != 200):
 	print "Failed to sign!"
