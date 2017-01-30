@@ -1,3 +1,3 @@
 import os
-os.environ["Length"] = 10
+os.environ["Length"] = "3"
 
