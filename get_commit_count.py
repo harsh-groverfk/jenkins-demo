@@ -1,2 +1,3 @@
-$Length = 10
+import os
+os.environ.[Length] = 10
 
