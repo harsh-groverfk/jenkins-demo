@@ -1,2 +1,2 @@
-jskdjjkadprint "Check code 4"
+print "Check code 4"
 "
